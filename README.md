@@ -7,3 +7,4 @@ José Pablo Rámirez
 Víctor González 
 
 Descripción del proyecto:
+Programa identificador de objetos en imágenes, en este caso se utilizó como objeto un 'león'.
